@@ -1,2 +1,2 @@
-# dailyhire
-FIverr like website 
+# HireAr
+Fiverr like website 
