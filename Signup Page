@@ -19,7 +19,18 @@
       <label for="password">Password</label>
       <input type="password" id="password" name="password" required placeholder="Create a password">
       
-      <label for="role">Role</label>
+      <label for="role">Role:</label>
       <select id="role" name="role" required>
-        <option value="jobseeker">Job Se
+        <option value="jobseeker">Job Seeker</option>
+        <option value="employer">Employer</option>
+      </select>
+      
+      <button type="submit">Sign Up</button>
+    </form>
+    <p>Already have an account? <a href="login.html">Log In</a></p>
+  </div>
+
+  <script src="script.js"></script> 
+</body>
+</html>
 
